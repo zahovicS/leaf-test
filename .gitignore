@@ -1,0 +1,7 @@
+vendor
+vendor2
+node_modules
+build
+dist
+compiled
+.idea
